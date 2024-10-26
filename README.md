@@ -1,8 +1,7 @@
 # Streamlining AWS Policy Development and Implementation for Enhanced Security
 
-<div align="center">
 ![Proj Img](https://imgur.com/2TBqoOJ.jpg) 
-</div>
+
 
 ## Introduction
 
